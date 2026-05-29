@@ -1,12 +1,16 @@
-<img width="933" height="731" alt="image" src="https://github.com/user-attachments/assets/20119815-63e3-4350-a97b-2f9740c2e926" />
-<img width="885" height="762" alt="image" src="https://github.com/user-attachments/assets/8ff0fee1-9cdb-46ec-ad3d-8aaeb8821608" />
-<img width="706" height="280" alt="image" src="https://github.com/user-attachments/assets/a946feda-fee6-4986-95a0-f647f30af0c1" />
-<img width="811" height="708" alt="image" src="https://github.com/user-attachments/assets/e0caa2dd-cc57-4642-987f-53e4f8f78903" />
+<img width="906" height="748" alt="image" src="https://github.com/user-attachments/assets/cd4aa1fc-b911-4068-80d4-7e10dc9deb04" />
+<img width="893" height="265" alt="image" src="https://github.com/user-attachments/assets/dee711eb-00e9-4ac6-9b9c-33fc90f84c0d" />
+<img width="876" height="742" alt="image" src="https://github.com/user-attachments/assets/0eddc772-f12e-43cb-a69c-ad8a2e1bf096" />
+<img width="693" height="277" alt="image" src="https://github.com/user-attachments/assets/3d74a48a-cfa9-4abf-988c-94f1da5d1062" />
+<img width="862" height="776" alt="image" src="https://github.com/user-attachments/assets/e84201fb-e35d-49d4-9f21-e5fe9856d519" />
+<img width="885" height="633" alt="image" src="https://github.com/user-attachments/assets/1eb504bf-ffbd-45a7-8ede-d0593601d20a" />
 
 
-## ATTACH THE CORRECT CIRCUIT
+## Tabulations 
+![WhatsApp Image 2026-03-30 at 3 01 39 PM](https://github.com/user-attachments/assets/c99ff19f-f6f7-4203-8d88-e7a3e27d5e4b)
 
-## GRAPHS
+## Semilog Graph
+![WhatsApp Image 2026-03-30 at 3 02 00 PM](https://github.com/user-attachments/assets/dc592238-2ca1-459c-a4be-395189a2c5fd)
 
+![WhatsApp Image 2026-03-30 at 3 05 16 PM](https://github.com/user-attachments/assets/8776dbbf-6965-4637-8d6f-89226265ab84)
 
-<img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
